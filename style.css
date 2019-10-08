@@ -8,3 +8,18 @@
   border: none;
   box-shadow: none;
 }
+
+.footer-background {
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+hr {
+  border: 1px solid lightgray;
+  margin: 50px
+}
+
+.item.newsletter {
+  margin-bottom: 20px;
+}
